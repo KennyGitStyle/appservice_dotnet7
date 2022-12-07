@@ -1,0 +1,5 @@
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\obj\Release\net7.0\Northwind.Common.DataContext.SqlServer.csproj.AssemblyReference.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\obj\Release\net7.0\Northwind.Common.DataContext.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\obj\Release\net7.0\Northwind.Common.DataContext.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\obj\Release\net7.0\Northwind.Common.DataContext.SqlServer.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\obj\Release\net7.0\Northwind.Common.DataContext.SqlServer.csproj.CoreCompileInputs.cache
