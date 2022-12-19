@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xhfQBC0BgHm4k2MTxBxYH7oiMMdI+pM+fq8znKbTxg4f24WcACBdno3iq69s8q86Vt31q+OMa9kmAtJMKQVRRg==",
+  "dgSpecHash": "f2xFVzF1BtidmRyoVZwNKrXpp3uEDJvwZkIK3KMJz59krgzCOYdN/PoF7DehZwU7ZI6ivUUofDdH8dnaWRco8g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kenneth\\source\\repos\\apps-services-net7\\Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj",
   "expectedPackageFiles": [

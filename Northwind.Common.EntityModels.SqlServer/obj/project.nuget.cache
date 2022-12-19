@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1UGKa6BC3U9vqYe+yRspHz2KcsVXmU1eiyQ0v7h7DWkUIKhIjTfMUW1VIhdbtNpmWsKEfPH0nx4vCEXT+GPjsQ==",
+  "dgSpecHash": "FPIRISx8M6KgBV/8wld1i0HVpOfd40nwMgMDwJxB6aynuSHK7xCvKmTkZGKQMxw93pISWVgcEwG1AlSg4AvlZw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kenneth\\source\\repos\\apps-services-net7\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj",
   "expectedPackageFiles": [
