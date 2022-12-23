@@ -1,0 +1,15 @@
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\bin\Debug\net7.0\Northwind.Common.DataContext.SqlServer.deps.json
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\bin\Debug\net7.0\Northwind.Common.DataContext.SqlServer.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\bin\Debug\net7.0\Northwind.Common.DataContext.SqlServer.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.csproj.AssemblyReference.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.csproj.CopyComplete
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\refint\Northwind.Common.DataContext.SqlServer.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\ref\Northwind.Common.DataContext.SqlServer.dll

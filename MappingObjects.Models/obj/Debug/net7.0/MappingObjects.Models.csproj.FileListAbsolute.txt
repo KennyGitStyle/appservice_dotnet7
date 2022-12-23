@@ -1,0 +1,12 @@
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Models\bin\Debug\net7.0\MappingObjects.Models.deps.json
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Models\bin\Debug\net7.0\MappingObjects.Models.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Models\bin\Debug\net7.0\MappingObjects.Models.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Models\obj\Debug\net7.0\MappingObjects.Models.csproj.AssemblyReference.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Models\obj\Debug\net7.0\MappingObjects.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Models\obj\Debug\net7.0\MappingObjects.Models.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Models\obj\Debug\net7.0\MappingObjects.Models.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Models\obj\Debug\net7.0\MappingObjects.Models.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Models\obj\Debug\net7.0\MappingObjects.Models.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Models\obj\Debug\net7.0\refint\MappingObjects.Models.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Models\obj\Debug\net7.0\MappingObjects.Models.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Models\obj\Debug\net7.0\ref\MappingObjects.Models.dll

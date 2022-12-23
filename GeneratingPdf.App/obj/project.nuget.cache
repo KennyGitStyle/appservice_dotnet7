@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pl43EHxPRYJ9Gavo+w9ICTziewJySEaJOPaIUVmKPkfnkC5FICqPUu7JMX4+9ECkk180Y5q3Agg+szTPZy2XNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kenneth\\source\\repos\\apps-services-net7\\GeneratingPdf.App\\GeneratingPdf.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kenneth\\.nuget\\packages\\harfbuzzsharp\\2.8.2.3\\harfbuzzsharp.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\Kenneth\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\2.8.2.3\\harfbuzzsharp.nativeassets.macos.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\Kenneth\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\2.8.2.3\\harfbuzzsharp.nativeassets.win32.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\Kenneth\\.nuget\\packages\\questpdf\\2022.12.0\\questpdf.2022.12.0.nupkg.sha512",
+    "C:\\Users\\Kenneth\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\Kenneth\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.3\\skiasharp.harfbuzz.2.88.3.nupkg.sha512",
+    "C:\\Users\\Kenneth\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\Kenneth\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+  ],
+  "logs": []
+}

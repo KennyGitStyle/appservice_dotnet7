@@ -1,0 +1,15 @@
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTasks\bin\Debug\net7.0\WorkingWithTasks.exe
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTasks\bin\Debug\net7.0\WorkingWithTasks.deps.json
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTasks\bin\Debug\net7.0\WorkingWithTasks.runtimeconfig.json
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTasks\bin\Debug\net7.0\WorkingWithTasks.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTasks\bin\Debug\net7.0\WorkingWithTasks.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTasks\obj\Debug\net7.0\WorkingWithTasks.csproj.AssemblyReference.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTasks\obj\Debug\net7.0\WorkingWithTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTasks\obj\Debug\net7.0\WorkingWithTasks.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTasks\obj\Debug\net7.0\WorkingWithTasks.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTasks\obj\Debug\net7.0\WorkingWithTasks.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTasks\obj\Debug\net7.0\WorkingWithTasks.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTasks\obj\Debug\net7.0\refint\WorkingWithTasks.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTasks\obj\Debug\net7.0\WorkingWithTasks.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTasks\obj\Debug\net7.0\WorkingWithTasks.genruntimeconfig.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTasks\obj\Debug\net7.0\ref\WorkingWithTasks.dll

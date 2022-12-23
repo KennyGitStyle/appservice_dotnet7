@@ -1,0 +1,15 @@
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Validators\bin\Debug\net7.0\FluentValidation.Validators.deps.json
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Validators\bin\Debug\net7.0\FluentValidation.Validators.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Validators\bin\Debug\net7.0\FluentValidation.Validators.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Validators\bin\Debug\net7.0\FluentValidation.Models.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Validators\bin\Debug\net7.0\FluentValidation.Models.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Validators\obj\Debug\net7.0\FluentValidation.Validators.csproj.AssemblyReference.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Validators\obj\Debug\net7.0\FluentValidation.Validators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Validators\obj\Debug\net7.0\FluentValidation.Validators.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Validators\obj\Debug\net7.0\FluentValidation.Validators.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Validators\obj\Debug\net7.0\FluentValidation.Validators.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Validators\obj\Debug\net7.0\FluentValidation.Validators.csproj.CopyComplete
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Validators\obj\Debug\net7.0\FluentValidation.Validators.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Validators\obj\Debug\net7.0\refint\FluentValidation.Validators.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Validators\obj\Debug\net7.0\FluentValidation.Validators.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Validators\obj\Debug\net7.0\ref\FluentValidation.Validators.dll

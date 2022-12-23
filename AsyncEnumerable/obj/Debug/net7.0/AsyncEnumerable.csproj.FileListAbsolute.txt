@@ -1,0 +1,15 @@
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncEnumerable\bin\Debug\net7.0\AsyncEnumerable.exe
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncEnumerable\bin\Debug\net7.0\AsyncEnumerable.deps.json
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncEnumerable\bin\Debug\net7.0\AsyncEnumerable.runtimeconfig.json
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncEnumerable\bin\Debug\net7.0\AsyncEnumerable.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncEnumerable\bin\Debug\net7.0\AsyncEnumerable.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncEnumerable\obj\Debug\net7.0\AsyncEnumerable.csproj.AssemblyReference.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncEnumerable\obj\Debug\net7.0\AsyncEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncEnumerable\obj\Debug\net7.0\AsyncEnumerable.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncEnumerable\obj\Debug\net7.0\AsyncEnumerable.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncEnumerable\obj\Debug\net7.0\AsyncEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncEnumerable\obj\Debug\net7.0\AsyncEnumerable.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncEnumerable\obj\Debug\net7.0\refint\AsyncEnumerable.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncEnumerable\obj\Debug\net7.0\AsyncEnumerable.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncEnumerable\obj\Debug\net7.0\AsyncEnumerable.genruntimeconfig.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncEnumerable\obj\Debug\net7.0\ref\AsyncEnumerable.dll

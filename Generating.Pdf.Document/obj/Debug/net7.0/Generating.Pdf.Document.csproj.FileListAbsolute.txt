@@ -1,0 +1,15 @@
+C:\Users\Kenneth\source\repos\apps-services-net7\Generating.Pdf.Document\bin\Debug\net7.0\Generating.Pdf.Document.deps.json
+C:\Users\Kenneth\source\repos\apps-services-net7\Generating.Pdf.Document\bin\Debug\net7.0\Generating.Pdf.Document.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\Generating.Pdf.Document\bin\Debug\net7.0\Generating.Pdf.Document.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\Generating.Pdf.Document\bin\Debug\net7.0\Generating.Pdf.Models.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\Generating.Pdf.Document\bin\Debug\net7.0\Generating.Pdf.Models.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\Generating.Pdf.Document\obj\Debug\net7.0\Generating.Pdf.Document.csproj.AssemblyReference.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\Generating.Pdf.Document\obj\Debug\net7.0\Generating.Pdf.Document.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\source\repos\apps-services-net7\Generating.Pdf.Document\obj\Debug\net7.0\Generating.Pdf.Document.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\Generating.Pdf.Document\obj\Debug\net7.0\Generating.Pdf.Document.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\Generating.Pdf.Document\obj\Debug\net7.0\Generating.Pdf.Document.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\Generating.Pdf.Document\obj\Debug\net7.0\Generating.Pdf.Document.csproj.CopyComplete
+C:\Users\Kenneth\source\repos\apps-services-net7\Generating.Pdf.Document\obj\Debug\net7.0\Generating.Pdf.Document.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\Generating.Pdf.Document\obj\Debug\net7.0\refint\Generating.Pdf.Document.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\Generating.Pdf.Document\obj\Debug\net7.0\Generating.Pdf.Document.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\Generating.Pdf.Document\obj\Debug\net7.0\ref\Generating.Pdf.Document.dll

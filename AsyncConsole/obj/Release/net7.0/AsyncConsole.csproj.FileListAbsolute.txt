@@ -1,0 +1,15 @@
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncConsole\bin\Release\net7.0\AsyncConsole.exe
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncConsole\bin\Release\net7.0\AsyncConsole.deps.json
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncConsole\bin\Release\net7.0\AsyncConsole.runtimeconfig.json
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncConsole\bin\Release\net7.0\AsyncConsole.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncConsole\bin\Release\net7.0\AsyncConsole.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncConsole\obj\Release\net7.0\AsyncConsole.csproj.AssemblyReference.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncConsole\obj\Release\net7.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncConsole\obj\Release\net7.0\AsyncConsole.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncConsole\obj\Release\net7.0\AsyncConsole.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncConsole\obj\Release\net7.0\AsyncConsole.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncConsole\obj\Release\net7.0\AsyncConsole.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncConsole\obj\Release\net7.0\refint\AsyncConsole.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncConsole\obj\Release\net7.0\AsyncConsole.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncConsole\obj\Release\net7.0\AsyncConsole.genruntimeconfig.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\AsyncConsole\obj\Release\net7.0\ref\AsyncConsole.dll

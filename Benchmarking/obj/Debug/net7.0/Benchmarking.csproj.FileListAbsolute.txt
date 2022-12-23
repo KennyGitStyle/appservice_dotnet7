@@ -1,3 +1,6 @@
+C:\Users\Kenneth\source\repos\apps-services-net7\Benchmarking\bin\Debug\net7.0\TraceReloggerLib.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\Benchmarking\bin\Debug\net7.0\Dia2Lib.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\Benchmarking\bin\Debug\net7.0\OSExtensions.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\Benchmarking\bin\Debug\net7.0\x86\KernelTraceControl.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\Benchmarking\bin\Debug\net7.0\x86\KernelTraceControl.Win61.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\Benchmarking\bin\Debug\net7.0\x86\msdia140.dll
@@ -13,9 +16,6 @@ C:\Users\Kenneth\source\repos\apps-services-net7\Benchmarking\bin\Debug\net7.0\a
 C:\Users\Kenneth\source\repos\apps-services-net7\Benchmarking\bin\Debug\net7.0\arm64\msvcp140.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\Benchmarking\bin\Debug\net7.0\arm64\vcruntime140.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\Benchmarking\bin\Debug\net7.0\arm64\vcruntime140_1.dll
-C:\Users\Kenneth\source\repos\apps-services-net7\Benchmarking\bin\Debug\net7.0\TraceReloggerLib.dll
-C:\Users\Kenneth\source\repos\apps-services-net7\Benchmarking\bin\Debug\net7.0\Dia2Lib.dll
-C:\Users\Kenneth\source\repos\apps-services-net7\Benchmarking\bin\Debug\net7.0\OSExtensions.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\Benchmarking\bin\Debug\net7.0\Benchmarking.exe
 C:\Users\Kenneth\source\repos\apps-services-net7\Benchmarking\bin\Debug\net7.0\Benchmarking.deps.json
 C:\Users\Kenneth\source\repos\apps-services-net7\Benchmarking\bin\Debug\net7.0\Benchmarking.runtimeconfig.json

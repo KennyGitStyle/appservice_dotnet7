@@ -1,0 +1,14 @@
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.EntityModels.SqlServer\bin\Release\net7.0\Northwind.Common.EntityModels.SqlServer.deps.json
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.EntityModels.SqlServer\bin\Release\net7.0\Northwind.Common.EntityModels.SqlServer.runtimeconfig.json
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.EntityModels.SqlServer\bin\Release\net7.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.EntityModels.SqlServer\bin\Release\net7.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.EntityModels.SqlServer\obj\Release\net7.0\Northwind.Common.EntityModels.SqlServer.csproj.AssemblyReference.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.EntityModels.SqlServer\obj\Release\net7.0\Northwind.Common.EntityModels.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.EntityModels.SqlServer\obj\Release\net7.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.EntityModels.SqlServer\obj\Release\net7.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.EntityModels.SqlServer\obj\Release\net7.0\Northwind.Common.EntityModels.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.EntityModels.SqlServer\obj\Release\net7.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.EntityModels.SqlServer\obj\Release\net7.0\refint\Northwind.Common.EntityModels.SqlServer.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.EntityModels.SqlServer\obj\Release\net7.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.EntityModels.SqlServer\obj\Release\net7.0\Northwind.Common.EntityModels.SqlServer.genruntimeconfig.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.Common.EntityModels.SqlServer\obj\Release\net7.0\ref\Northwind.Common.EntityModels.SqlServer.dll

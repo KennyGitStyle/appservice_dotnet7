@@ -1,0 +1,10 @@
+2022-12-23 15:26:58.777 +00:00 [INF] The global logger has been configuration.
+2022-12-23 15:33:13.561 +00:00 [WRN] Danger, Serilog, danger!
+2022-12-23 15:33:13.565 +00:00 [ERR] This is an error!
+2022-12-23 15:33:13.567 +00:00 [FTL] Fatal problem
+2022-12-23 15:33:13.571 +00:00 [INF] {"ProductId":1,"PageTitle":"Chai","SiteSection":"Beverages","$type":"ProductPageView"} occured at "2022-12-23T15:33:13.5705455+00:00"
+2022-12-23 17:20:39.329 +00:00 [INF] The global logger has been configuration.
+2022-12-23 17:20:54.043 +00:00 [WRN] Danger, Serilog, danger!
+2022-12-23 17:20:54.047 +00:00 [ERR] This is an error!
+2022-12-23 17:20:54.050 +00:00 [FTL] Fatal problem
+2022-12-23 17:20:54.054 +00:00 [INF] {"ProductId":1,"PageTitle":"Chai","SiteSection":"Beverages","$type":"ProductPageView"} occured at "2022-12-23T17:20:54.0528589+00:00"
