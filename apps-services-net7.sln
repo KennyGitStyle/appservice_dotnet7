@@ -8,21 +8,33 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SqlConnection", "SqlConnect
 		..\..\..\Desktop\Files\appservices_7\apps-services-net7\sql-scripts\Northwind4SQLServer.sql = ..\..\..\Desktop\Files\appservices_7\apps-services-net7\sql-scripts\Northwind4SQLServer.sql
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Console.SqlClient", "Northwind.Console.SqlClient\Northwind.Console.SqlClient.csproj", "{9D68EF73-A323-4CE0-A45F-E9B9596FC82B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Console.SqlClient", "Northwind.Console.SqlClient\Northwind.Console.SqlClient.csproj", "{9D68EF73-A323-4CE0-A45F-E9B9596FC82B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Console.EFCore", "Northwind.Console.EFCore\Northwind.Console.EFCore.csproj", "{CFF7C8CE-227D-449E-9F75-4FF1C1833CC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Console.EFCore", "Northwind.Console.EFCore\Northwind.Console.EFCore.csproj", "{CFF7C8CE-227D-449E-9F75-4FF1C1833CC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Console.HierarchyMapping", "Northwind.Console.HierarchyMapping\Northwind.Console.HierarchyMapping.csproj", "{599E1C7C-EDE1-4731-8E98-34272252B181}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Console.HierarchyMapping", "Northwind.Console.HierarchyMapping\Northwind.Console.HierarchyMapping.csproj", "{599E1C7C-EDE1-4731-8E98-34272252B181}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Common.EntityModels.SqlServer", "Northwind.Common.EntityModels.SqlServer\Northwind.Common.EntityModels.SqlServer.csproj", "{5C34C90B-1ED4-4765-BC97-4A4B17DB63FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Common.EntityModels.SqlServer", "Northwind.Common.EntityModels.SqlServer\Northwind.Common.EntityModels.SqlServer.csproj", "{5C34C90B-1ED4-4765-BC97-4A4B17DB63FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Common.DataContext.SqlServer", "Northwind.Common.DataContext.SqlServer\Northwind.Common.DataContext.SqlServer.csproj", "{57322F19-B518-48CD-AD53-0A29A62BA69D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Common.DataContext.SqlServer", "Northwind.Common.DataContext.SqlServer\Northwind.Common.DataContext.SqlServer.csproj", "{57322F19-B518-48CD-AD53-0A29A62BA69D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Common.EntityModels.Test", "Northwind.Common.EntityModels.Test\Northwind.Common.EntityModels.Test.csproj", "{AE8CA3CD-711A-4C9C-8418-04EF9D85951D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Common.EntityModels.Test", "Northwind.Common.EntityModels.Test\Northwind.Common.EntityModels.Test.csproj", "{AE8CA3CD-711A-4C9C-8418-04EF9D85951D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NoSql", "NoSql", "{24ED5007-690E-4253-B254-4331358EA779}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.CosmosDb.SqlApi", "Northwind.CosmosDb.SqlApi\Northwind.CosmosDb.SqlApi.csproj", "{49EDEE8F-7E6F-4195-93A9-9481412AE5FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.CosmosDb.SqlApi", "Northwind.CosmosDb.SqlApi\Northwind.CosmosDb.SqlApi.csproj", "{49EDEE8F-7E6F-4195-93A9-9481412AE5FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MonitoringPerformance", "MonitoringPerformance", "{4711B330-E283-4D4D-8822-9A9636488615}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonitoringLib", "MonitoringLib\MonitoringLib.csproj", "{EBF5A45E-08E2-44AF-AA3B-BE65447324A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonitoringApp", "MonitoringApp\MonitoringApp.csproj", "{A30BB328-C06C-4209-9F24-160D972CAC1D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Benchmarking", "Benchmarking\Benchmarking.csproj", "{15F2B9E2-631E-4E63-B261-96D7345D9A40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithTasks", "WorkingWithTasks\WorkingWithTasks.csproj", "{BA94456A-8687-47DC-A646-3433F6267430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronisingResourceAccess", "SynchronisingResourceAccess\SynchronisingResourceAccess.csproj", "{7F416306-315C-450E-A1CF-DEB60E3E4571}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -58,6 +70,26 @@ Global
 		{49EDEE8F-7E6F-4195-93A9-9481412AE5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49EDEE8F-7E6F-4195-93A9-9481412AE5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49EDEE8F-7E6F-4195-93A9-9481412AE5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF5A45E-08E2-44AF-AA3B-BE65447324A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF5A45E-08E2-44AF-AA3B-BE65447324A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF5A45E-08E2-44AF-AA3B-BE65447324A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF5A45E-08E2-44AF-AA3B-BE65447324A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A30BB328-C06C-4209-9F24-160D972CAC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30BB328-C06C-4209-9F24-160D972CAC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30BB328-C06C-4209-9F24-160D972CAC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30BB328-C06C-4209-9F24-160D972CAC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F2B9E2-631E-4E63-B261-96D7345D9A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F2B9E2-631E-4E63-B261-96D7345D9A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F2B9E2-631E-4E63-B261-96D7345D9A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F2B9E2-631E-4E63-B261-96D7345D9A40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA94456A-8687-47DC-A646-3433F6267430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA94456A-8687-47DC-A646-3433F6267430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA94456A-8687-47DC-A646-3433F6267430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA94456A-8687-47DC-A646-3433F6267430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F416306-315C-450E-A1CF-DEB60E3E4571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F416306-315C-450E-A1CF-DEB60E3E4571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F416306-315C-450E-A1CF-DEB60E3E4571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F416306-315C-450E-A1CF-DEB60E3E4571}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -70,6 +102,11 @@ Global
 		{57322F19-B518-48CD-AD53-0A29A62BA69D} = {713B4BE8-0CD3-4450-A39F-8BC19B656604}
 		{AE8CA3CD-711A-4C9C-8418-04EF9D85951D} = {713B4BE8-0CD3-4450-A39F-8BC19B656604}
 		{49EDEE8F-7E6F-4195-93A9-9481412AE5FD} = {24ED5007-690E-4253-B254-4331358EA779}
+		{EBF5A45E-08E2-44AF-AA3B-BE65447324A7} = {4711B330-E283-4D4D-8822-9A9636488615}
+		{A30BB328-C06C-4209-9F24-160D972CAC1D} = {4711B330-E283-4D4D-8822-9A9636488615}
+		{15F2B9E2-631E-4E63-B261-96D7345D9A40} = {4711B330-E283-4D4D-8822-9A9636488615}
+		{BA94456A-8687-47DC-A646-3433F6267430} = {4711B330-E283-4D4D-8822-9A9636488615}
+		{7F416306-315C-450E-A1CF-DEB60E3E4571} = {4711B330-E283-4D4D-8822-9A9636488615}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7FFEF3F9-219C-466D-A3DE-893318461BDF}

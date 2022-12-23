@@ -1,0 +1,15 @@
+C:\Users\Kenneth\source\repos\apps-services-net7\SynchronisingResourceAccess\bin\Release\net7.0\SynchronisingResourceAccess.exe
+C:\Users\Kenneth\source\repos\apps-services-net7\SynchronisingResourceAccess\bin\Release\net7.0\SynchronisingResourceAccess.deps.json
+C:\Users\Kenneth\source\repos\apps-services-net7\SynchronisingResourceAccess\bin\Release\net7.0\SynchronisingResourceAccess.runtimeconfig.json
+C:\Users\Kenneth\source\repos\apps-services-net7\SynchronisingResourceAccess\bin\Release\net7.0\SynchronisingResourceAccess.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\SynchronisingResourceAccess\bin\Release\net7.0\SynchronisingResourceAccess.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\SynchronisingResourceAccess\obj\Release\net7.0\SynchronisingResourceAccess.csproj.AssemblyReference.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\SynchronisingResourceAccess\obj\Release\net7.0\SynchronisingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\source\repos\apps-services-net7\SynchronisingResourceAccess\obj\Release\net7.0\SynchronisingResourceAccess.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\SynchronisingResourceAccess\obj\Release\net7.0\SynchronisingResourceAccess.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\SynchronisingResourceAccess\obj\Release\net7.0\SynchronisingResourceAccess.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\SynchronisingResourceAccess\obj\Release\net7.0\SynchronisingResourceAccess.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\SynchronisingResourceAccess\obj\Release\net7.0\refint\SynchronisingResourceAccess.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\SynchronisingResourceAccess\obj\Release\net7.0\SynchronisingResourceAccess.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\SynchronisingResourceAccess\obj\Release\net7.0\SynchronisingResourceAccess.genruntimeconfig.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\SynchronisingResourceAccess\obj\Release\net7.0\ref\SynchronisingResourceAccess.dll
