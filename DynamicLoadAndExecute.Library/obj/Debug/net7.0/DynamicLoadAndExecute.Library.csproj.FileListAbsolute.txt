@@ -1,0 +1,12 @@
+C:\Users\Kenneth\source\repos\apps-services-net7\DynamicLoadAndExecute.Library\bin\Debug\net7.0\DynamicLoadAndExecute.Library.deps.json
+C:\Users\Kenneth\source\repos\apps-services-net7\DynamicLoadAndExecute.Library\bin\Debug\net7.0\DynamicLoadAndExecute.Library.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\DynamicLoadAndExecute.Library\bin\Debug\net7.0\DynamicLoadAndExecute.Library.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\DynamicLoadAndExecute.Library\obj\Debug\net7.0\DynamicLoadAndExecute.Library.csproj.AssemblyReference.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\DynamicLoadAndExecute.Library\obj\Debug\net7.0\DynamicLoadAndExecute.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\source\repos\apps-services-net7\DynamicLoadAndExecute.Library\obj\Debug\net7.0\DynamicLoadAndExecute.Library.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\DynamicLoadAndExecute.Library\obj\Debug\net7.0\DynamicLoadAndExecute.Library.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\DynamicLoadAndExecute.Library\obj\Debug\net7.0\DynamicLoadAndExecute.Library.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\DynamicLoadAndExecute.Library\obj\Debug\net7.0\DynamicLoadAndExecute.Library.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\DynamicLoadAndExecute.Library\obj\Debug\net7.0\refint\DynamicLoadAndExecute.Library.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\DynamicLoadAndExecute.Library\obj\Debug\net7.0\DynamicLoadAndExecute.Library.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\DynamicLoadAndExecute.Library\obj\Debug\net7.0\ref\DynamicLoadAndExecute.Library.dll
