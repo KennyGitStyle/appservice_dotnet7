@@ -34,55 +34,61 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Benchmarking", "Benchmarkin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithTasks", "WorkingWithTasks\WorkingWithTasks.csproj", "{BA94456A-8687-47DC-A646-3433F6267430}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronisingResourceAccess", "SynchronisingResourceAccess\SynchronisingResourceAccess.csproj", "{7F416306-315C-450E-A1CF-DEB60E3E4571}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SynchronisingResourceAccess", "SynchronisingResourceAccess\SynchronisingResourceAccess.csproj", "{7F416306-315C-450E-A1CF-DEB60E3E4571}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncConsole", "AsyncConsole\AsyncConsole.csproj", "{B289B9FB-F731-4B43-9DB9-5CCCE307E421}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncConsole", "AsyncConsole\AsyncConsole.csproj", "{B289B9FB-F731-4B43-9DB9-5CCCE307E421}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncEnumerable", "AsyncEnumerable\AsyncEnumerable.csproj", "{B54493FD-4DFD-46D3-BDBB-BBB646AF861F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncEnumerable", "AsyncEnumerable\AsyncEnumerable.csproj", "{B54493FD-4DFD-46D3-BDBB-BBB646AF861F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfResponsive", "WpfResponsive\WpfResponsive.csproj", "{8FDCA6A8-178E-4747-8501-8665E3719BAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfResponsive", "WpfResponsive\WpfResponsive.csproj", "{8FDCA6A8-178E-4747-8501-8665E3719BAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithImages", "WorkingWithImages\WorkingWithImages.csproj", "{4BBE02BC-D711-40F3-AA68-A6417AE865B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithImages", "WorkingWithImages\WorkingWithImages.csproj", "{4BBE02BC-D711-40F3-AA68-A6417AE865B2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImplementingThirdPartyLibrary", "ImplementingThirdPartyLibrary", "{4D540E84-2AF0-40E2-A1F4-8326952EA6AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilogging", "Serilogging\Serilogging.csproj", "{3AE578BE-E85D-427D-BBE4-3448CA775779}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serilogging", "Serilogging\Serilogging.csproj", "{3AE578BE-E85D-427D-BBE4-3448CA775779}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MappingObjects.Models", "MappingObjects.Models\MappingObjects.Models.csproj", "{7FCAFF25-F104-46C6-8A6A-C6B5E8CEFF15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MappingObjects.Models", "MappingObjects.Models\MappingObjects.Models.csproj", "{7FCAFF25-F104-46C6-8A6A-C6B5E8CEFF15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MappingObjects.Mappers", "MappingObjects.Mappers\MappingObjects.Mappers.csproj", "{24C66F8B-B140-44F9-8BBD-272CD0E41A2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MappingObjects.Mappers", "MappingObjects.Mappers\MappingObjects.Mappers.csproj", "{24C66F8B-B140-44F9-8BBD-272CD0E41A2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapping.Objects.Tests", "Mapping.Objects.Tests\Mapping.Objects.Tests.csproj", "{F558645D-5042-4ED6-A4E3-3C0421FCAA28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mapping.Objects.Tests", "Mapping.Objects.Tests\Mapping.Objects.Tests.csproj", "{F558645D-5042-4ED6-A4E3-3C0421FCAA28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MappingObjects", "MappingObjects\MappingObjects.csproj", "{6D8933DE-DEFF-4B76-B673-52E23AF767AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MappingObjects", "MappingObjects\MappingObjects.csproj", "{6D8933DE-DEFF-4B76-B673-52E23AF767AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentTests", "FluentTests\FluentTests.csproj", "{15204B18-4D06-4AB2-A508-3E03A60D0F96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluentTests", "FluentTests\FluentTests.csproj", "{15204B18-4D06-4AB2-A508-3E03A60D0F96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentValidation.Models", "FluentValidation.Models\FluentValidation.Models.csproj", "{D96F905E-BA8C-4FB2-AF64-DB3E54959D32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluentValidation.Models", "FluentValidation.Models\FluentValidation.Models.csproj", "{D96F905E-BA8C-4FB2-AF64-DB3E54959D32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentValidation.Validators", "FluentValidation.Validators\FluentValidation.Validators.csproj", "{233960E2-B902-4769-8708-B857B7A1D688}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluentValidation.Validators", "FluentValidation.Validators\FluentValidation.Validators.csproj", "{233960E2-B902-4769-8708-B857B7A1D688}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentValidation.App", "FluentValidation.App\FluentValidation.App.csproj", "{1A3B0078-7E46-4169-894B-CA15BADF65D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluentValidation.App", "FluentValidation.App\FluentValidation.App.csproj", "{1A3B0078-7E46-4169-894B-CA15BADF65D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generating.Pdf.Models", "Generating.Pdf.Models\Generating.Pdf.Models.csproj", "{2DA4B87B-E25C-492E-924F-99E59A74A13A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generating.Pdf.Models", "Generating.Pdf.Models\Generating.Pdf.Models.csproj", "{2DA4B87B-E25C-492E-924F-99E59A74A13A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generating.Pdf.Document", "Generating.Pdf.Document\Generating.Pdf.Document.csproj", "{128A4A70-8642-4C95-8E32-9E9687AEBDE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generating.Pdf.Document", "Generating.Pdf.Document\Generating.Pdf.Document.csproj", "{128A4A70-8642-4C95-8E32-9E9687AEBDE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratingPdf.App", "GeneratingPdf.App\GeneratingPdf.App.csproj", "{4737A5CD-C057-488A-BAB5-18A8AF6C171E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneratingPdf.App", "GeneratingPdf.App\GeneratingPdf.App.csproj", "{4737A5CD-C057-488A-BAB5-18A8AF6C171E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObservingModifyingCodeExecutionDynmically", "ObservingModifyingCodeExecutionDynmically", "{72786F7E-5F00-4928-8559-CEE8F0FFD511}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithReflection", "WorkingWithReflection\WorkingWithReflection.csproj", "{727AC7BC-3620-4468-A5BE-8B9593DF4951}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithReflection", "WorkingWithReflection\WorkingWithReflection.csproj", "{727AC7BC-3620-4468-A5BE-8B9593DF4951}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicLoadAndExecute.Library", "DynamicLoadAndExecute.Library\DynamicLoadAndExecute.Library.csproj", "{1AB61E70-89C4-4331-8D4E-24C13BED22F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicLoadAndExecute.Library", "DynamicLoadAndExecute.Library\DynamicLoadAndExecute.Library.csproj", "{1AB61E70-89C4-4331-8D4E-24C13BED22F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicLoadAndExecute.Console", "DynamicLoadAndExecute.Console\DynamicLoadAndExecute.Console.csproj", "{A2893B09-3702-4782-A6C7-8D17C89925A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicLoadAndExecute.Console", "DynamicLoadAndExecute.Console\DynamicLoadAndExecute.Console.csproj", "{A2893B09-3702-4782-A6C7-8D17C89925A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithExpressionTrees", "WorkingWithExpressionTrees\WorkingWithExpressionTrees.csproj", "{0C8D7928-E6A0-4314-A9D3-20FDFD46C282}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithExpressionTrees", "WorkingWithExpressionTrees\WorkingWithExpressionTrees.csproj", "{0C8D7928-E6A0-4314-A9D3-20FDFD46C282}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratingCodeApp", "GeneratingCodeApp\GeneratingCodeApp.csproj", "{71D4D7B9-109D-4A41-AA89-1ADD6CFE6898}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneratingCodeApp", "GeneratingCodeApp\GeneratingCodeApp.csproj", "{71D4D7B9-109D-4A41-AA89-1ADD6CFE6898}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratingCodeLib", "GeneratingCodeLib\GeneratingCodeLib.csproj", "{C6A10A37-66F1-45D0-BFBD-09C45746EFE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneratingCodeLib", "GeneratingCodeLib\GeneratingCodeLib.csproj", "{C6A10A37-66F1-45D0-BFBD-09C45746EFE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DatesTimesInternationalization", "DatesTimesInternationalization", "{9BDA92C2-2A76-4AE2-B6C4-77096D49FB78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithTime", "WorkingWithTime\WorkingWithTime.csproj", "{6EE2FE26-961B-4F66-8F2E-E85AF7842738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithTimeZones", "WorkingWithTimeZones\WorkingWithTimeZones.csproj", "{A406B80D-5412-44D9-97E8-808AADD087A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -226,6 +232,14 @@ Global
 		{C6A10A37-66F1-45D0-BFBD-09C45746EFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6A10A37-66F1-45D0-BFBD-09C45746EFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6A10A37-66F1-45D0-BFBD-09C45746EFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE2FE26-961B-4F66-8F2E-E85AF7842738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE2FE26-961B-4F66-8F2E-E85AF7842738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE2FE26-961B-4F66-8F2E-E85AF7842738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE2FE26-961B-4F66-8F2E-E85AF7842738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A406B80D-5412-44D9-97E8-808AADD087A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A406B80D-5412-44D9-97E8-808AADD087A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A406B80D-5412-44D9-97E8-808AADD087A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A406B80D-5412-44D9-97E8-808AADD087A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -265,6 +279,8 @@ Global
 		{0C8D7928-E6A0-4314-A9D3-20FDFD46C282} = {72786F7E-5F00-4928-8559-CEE8F0FFD511}
 		{71D4D7B9-109D-4A41-AA89-1ADD6CFE6898} = {72786F7E-5F00-4928-8559-CEE8F0FFD511}
 		{C6A10A37-66F1-45D0-BFBD-09C45746EFE1} = {72786F7E-5F00-4928-8559-CEE8F0FFD511}
+		{6EE2FE26-961B-4F66-8F2E-E85AF7842738} = {9BDA92C2-2A76-4AE2-B6C4-77096D49FB78}
+		{A406B80D-5412-44D9-97E8-808AADD087A6} = {9BDA92C2-2A76-4AE2-B6C4-77096D49FB78}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7FFEF3F9-219C-466D-A3DE-893318461BDF}

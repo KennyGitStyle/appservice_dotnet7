@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CPwl+H8r82LmESsephl6B991X7PjTLHm3U7e5QR//qEblaqsQ2nlSots3IHnUqeZzxFbSkROyTwt65C7myyTvA==",
+  "dgSpecHash": "HF3i+NsbM7CnyQmlaoQ19+5LouufvrsNPllhH8peyqk8yiIUnbfn+UmmOl/Lexs0A68cSqA0fH13ZpSoLWnmGQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kenneth\\source\\repos\\apps-services-net7\\Northwind.CosmosDb.SqlApi\\Northwind.CosmosDb.SqlApi.csproj",
   "expectedPackageFiles": [
