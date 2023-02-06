@@ -13,6 +13,26 @@
         },
         "runtime": {
           "WorkingWithCultures.dll": {}
+        },
+        "resources": {
+          "da/WorkingWithCultures.resources.dll": {
+            "locale": "da"
+          },
+          "fa-IR/WorkingWithCultures.resources.dll": {
+            "locale": "fa-IR"
+          },
+          "fr-CA/WorkingWithCultures.resources.dll": {
+            "locale": "fr-CA"
+          },
+          "fr/WorkingWithCultures.resources.dll": {
+            "locale": "fr"
+          },
+          "he-IL/WorkingWithCultures.resources.dll": {
+            "locale": "he-IL"
+          },
+          "pl-PL/WorkingWithCultures.resources.dll": {
+            "locale": "pl-PL"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {

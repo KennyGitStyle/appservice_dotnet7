@@ -12,6 +12,7 @@ namespace WorkingWithCultures
         public string? GetEnterYourNamePrompt()
         {
             string resourceStringName = "EnterYourName";
+
             // 1. get the LocalizedString object
             LocalizedString localizedString = localizer[resourceStringName];
             // 2. check if the resource string was found
