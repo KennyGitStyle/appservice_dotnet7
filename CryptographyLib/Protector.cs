@@ -1,5 +1,5 @@
 ﻿using System.Diagnostics;
-using System.Runtime.CompilerServices;
+using System.Security.Principal;
 using System.Security.Cryptography;
 using System.Text;
 using static System.Convert;
@@ -82,14 +82,14 @@ namespace CryptographyLib
         }
 
         private static Dictionary<string, User> Users = new();
-        public static User Register(string username, string password)
+        public static User Register(string username, string password, string[]? roles = null)
         {
             var rnd = RandomNumberGenerator.Create();
             byte[] saltBytes = new byte[16];
             rnd.GetBytes(saltBytes);
             string saltText = ToBase64String(saltBytes);
             string saltedHashedPassword = SaltAndHashPassword(password, saltText);
-            User user = new(username, saltText, saltedHashedPassword);
+            User user = new(username, saltText, saltedHashedPassword, roles);
             Users.Add(user.Name, user);
             return user;  
         }
@@ -119,6 +119,50 @@ namespace CryptographyLib
                 return ToBase64String(
                     sha.ComputeHash(Encoding.Unicode.GetBytes(saltedPassword)));
             }
+        }
+
+        public static string? PublicKey;
+        public static string GenerateSignature(string data)
+        {
+            byte[] dataBytes = Encoding.Unicode.GetBytes(data);
+            SHA256 sha = SHA256.Create();
+            byte[] hashedData = sha.ComputeHash(dataBytes);
+            RSA rsa = RSA.Create();
+            PublicKey = rsa.ToXmlString(false);
+            return ToBase64String(rsa.SignHash(hashedData,
+                HashAlgorithmName.SHA256, RSASignaturePadding.Pkcs1));
+        }
+
+        public static bool ValidateSignature(string data, string signature)
+        {
+            if (PublicKey is null)
+                return false;
+            byte[] dataBytes = Encoding.Unicode.GetBytes(data);
+            SHA256 sha = SHA256.Create();
+            byte[] hashedData = sha.ComputeHash(dataBytes);
+            byte[] signatureBytes = FromBase64String(signature);
+            RSA rsa = RSA.Create();
+            rsa.FromXmlString(PublicKey);
+            return rsa.VerifyHash(
+                hashedData, signatureBytes, HashAlgorithmName.SHA256, RSASignaturePadding.Pkcs1);
+        }
+
+        public static byte[] GetRandomKeyOrIV(int size)
+        {
+            RandomNumberGenerator rnd = RandomNumberGenerator.Create();
+            byte[] data = new byte[size];
+            rnd.GetBytes(data);
+            return data;
+        }
+
+        public static void LogIn(string username, string password)
+        {
+            if(CheckPassword(username, password))
+            {
+                GenericIdentity gi = new(name: username, type: "KenAuth");
+                GenericPrincipal gp = new(identity: gi, roles: Users[username].Roles);
+                Thread.CurrentPrincipal = gp;
+            }    
         }
     }
 }

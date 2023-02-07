@@ -1,4 +1,13 @@
 C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\GeneratingPdf.App.exe
+C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\categories.jpeg
+C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\category1.jpeg
+C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\category2.jpeg
+C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\category3.jpeg
+C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\category4.jpeg
+C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\category5.jpeg
+C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\category6.jpeg
+C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\category7.jpeg
+C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\category8.jpeg
 C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\GeneratingPdf.App.deps.json
 C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\GeneratingPdf.App.runtimeconfig.json
 C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\GeneratingPdf.App.dll
@@ -30,12 +39,3 @@ C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\obj\Debug\net
 C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\obj\Debug\net7.0\GeneratingPdf.App.pdb
 C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\obj\Debug\net7.0\GeneratingPdf.App.genruntimeconfig.cache
 C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\obj\Debug\net7.0\ref\GeneratingPdf.App.dll
-C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\categories.jpeg
-C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\category1.jpeg
-C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\category2.jpeg
-C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\category3.jpeg
-C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\category4.jpeg
-C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\category5.jpeg
-C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\category6.jpeg
-C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\category7.jpeg
-C:\Users\Kenneth\source\repos\apps-services-net7\GeneratingPdf.App\bin\Debug\net7.0\images\category8.jpeg
