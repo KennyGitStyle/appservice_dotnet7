@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "LZ0lb83BUy8dDG/5AKDoITYlc4pWiZ5T7GMELWNBQohIMtIDzrycMcK7yJJHNo44N/afGGvMKbDx3HLDFMQQiQ==",
-  "success": true,
+  "dgSpecHash": "TvsUCzNPf5uUv2T1yUDBDxYgTbQUf34TUZwwDUAczt1CflnsmkaCHhQPAAtu16nItHi1JJo1Bu2M39efGTTAhA==",
+  "success": false,
   "projectFilePath": "C:\\Users\\Kenneth\\source\\repos\\apps-services-net7\\SecureApp\\SecureApp.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  SecureApp -> SigningApp -> SigningApp.",
+      "libraryId": "SigningApp",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

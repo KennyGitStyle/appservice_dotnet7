@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "Wx54gMRY/HDVWBdg1hEq3ESMKwy/tr+taWxVhjMkXd9H1Icf1ITpIcKz9bbM3KiZ3zSy9YCX7xCJZ5cP9RsZtQ==",
-  "success": true,
+  "dgSpecHash": "8eL5vLzgTZN3R+eEm3vB515GWMnMZ9g0ntFfGR3IzEAyAcJhM4ElQPzpcgr3kLI7dulgek54eDjVrOsxnFcmiQ==",
+  "success": false,
   "projectFilePath": "C:\\Users\\Kenneth\\source\\repos\\apps-services-net7\\RandomizingApp\\RandomizingApp.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  RandomizingApp -> SigningApp -> SigningApp.",
+      "libraryId": "SigningApp",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

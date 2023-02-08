@@ -2,20 +2,23 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "CryptographyLib/1.0.0": {
+      "SigningApp/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "SigningApp": "1.0.0"
+        },
         "compile": {
-          "bin/placeholder/CryptographyLib.dll": {}
+          "bin/placeholder/SigningApp.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CryptographyLib.dll": {}
+          "bin/placeholder/SigningApp.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CryptographyLib/1.0.0": {
+    "SigningApp/1.0.0": {
       "type": "project",
       "path": "../CryptographyLib/CryptographyLib.csproj",
       "msbuildProject": "../CryptographyLib/CryptographyLib.csproj"
@@ -23,7 +26,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "CryptographyLib >= 1.0.0"
+      "SigningApp >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -98,5 +101,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  SecureApp -> SigningApp -> SigningApp.",
+      "libraryId": "SigningApp",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
