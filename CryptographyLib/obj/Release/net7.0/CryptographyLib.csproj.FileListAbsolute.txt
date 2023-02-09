@@ -1,0 +1,12 @@
+C:\Users\Kenneth\source\repos\apps-services-net7\CryptographyLib\bin\Release\net7.0\CryptographyLib.deps.json
+C:\Users\Kenneth\source\repos\apps-services-net7\CryptographyLib\bin\Release\net7.0\CryptographyLib.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\CryptographyLib\bin\Release\net7.0\CryptographyLib.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\CryptographyLib\obj\Release\net7.0\CryptographyLib.csproj.AssemblyReference.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\CryptographyLib\obj\Release\net7.0\CryptographyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\source\repos\apps-services-net7\CryptographyLib\obj\Release\net7.0\CryptographyLib.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\CryptographyLib\obj\Release\net7.0\CryptographyLib.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\CryptographyLib\obj\Release\net7.0\CryptographyLib.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\CryptographyLib\obj\Release\net7.0\CryptographyLib.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\CryptographyLib\obj\Release\net7.0\refint\CryptographyLib.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\CryptographyLib\obj\Release\net7.0\CryptographyLib.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\CryptographyLib\obj\Release\net7.0\ref\CryptographyLib.dll

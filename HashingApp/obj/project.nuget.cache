@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GoGFHI1ytay365PJlbWSKQhej6hAuruobSikdEH2amCXzcQuKwYt4xncfI7VqfGaoRXeea/7ofAUBfkxfAfvwA==",
-  "success": false,
+  "dgSpecHash": "6R8qXlM61FKmgFqlUQBs3CW3VVOLf7uEjbGB1+8MnduvDqhVLReZ2tKw+hUY2M+OqtDIfdA8o0ye70XSBBI21w==",
+  "success": true,
   "projectFilePath": "C:\\Users\\Kenneth\\source\\repos\\apps-services-net7\\HashingApp\\HashingApp.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1108",
-      "level": "Error",
-      "message": "Cycle detected. \r\n  HashingApp -> SigningApp -> SigningApp.",
-      "libraryId": "SigningApp",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }

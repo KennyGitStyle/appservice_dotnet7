@@ -1,0 +1,12 @@
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Models\bin\Release\net7.0\FluentValidation.Models.deps.json
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Models\bin\Release\net7.0\FluentValidation.Models.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Models\bin\Release\net7.0\FluentValidation.Models.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Models\obj\Release\net7.0\FluentValidation.Models.csproj.AssemblyReference.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Models\obj\Release\net7.0\FluentValidation.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Models\obj\Release\net7.0\FluentValidation.Models.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Models\obj\Release\net7.0\FluentValidation.Models.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Models\obj\Release\net7.0\FluentValidation.Models.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Models\obj\Release\net7.0\FluentValidation.Models.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Models\obj\Release\net7.0\refint\FluentValidation.Models.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Models\obj\Release\net7.0\FluentValidation.Models.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\FluentValidation.Models\obj\Release\net7.0\ref\FluentValidation.Models.dll

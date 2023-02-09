@@ -1,0 +1,15 @@
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTime\bin\Release\net7.0\WorkingWithTime.exe
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTime\bin\Release\net7.0\WorkingWithTime.deps.json
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTime\bin\Release\net7.0\WorkingWithTime.runtimeconfig.json
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTime\bin\Release\net7.0\WorkingWithTime.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTime\bin\Release\net7.0\WorkingWithTime.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTime\obj\Release\net7.0\WorkingWithTime.csproj.AssemblyReference.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTime\obj\Release\net7.0\WorkingWithTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTime\obj\Release\net7.0\WorkingWithTime.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTime\obj\Release\net7.0\WorkingWithTime.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTime\obj\Release\net7.0\WorkingWithTime.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTime\obj\Release\net7.0\WorkingWithTime.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTime\obj\Release\net7.0\refint\WorkingWithTime.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTime\obj\Release\net7.0\WorkingWithTime.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTime\obj\Release\net7.0\WorkingWithTime.genruntimeconfig.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTime\obj\Release\net7.0\ref\WorkingWithTime.dll

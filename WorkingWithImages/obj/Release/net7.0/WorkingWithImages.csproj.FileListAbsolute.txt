@@ -1,4 +1,6 @@
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithImages\bin\Release\net7.0\WorkingWithImages.exe
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithImages\bin\Release\net7.0\images\categories.jpeg
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithImages\bin\Release\net7.0\images\category1.jpeg
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithImages\bin\Release\net7.0\WorkingWithImages.deps.json
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithImages\bin\Release\net7.0\WorkingWithImages.runtimeconfig.json
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithImages\bin\Release\net7.0\WorkingWithImages.dll
@@ -15,5 +17,3 @@ C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithImages\obj\Release\n
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithImages\obj\Release\net7.0\WorkingWithImages.pdb
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithImages\obj\Release\net7.0\WorkingWithImages.genruntimeconfig.cache
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithImages\obj\Release\net7.0\ref\WorkingWithImages.dll
-C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithImages\bin\Release\net7.0\images\categories.jpeg
-C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithImages\bin\Release\net7.0\images\category1.jpeg

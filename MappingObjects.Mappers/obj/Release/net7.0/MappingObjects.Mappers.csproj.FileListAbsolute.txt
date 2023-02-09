@@ -1,0 +1,15 @@
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Mappers\bin\Release\net7.0\MappingObjects.Mappers.deps.json
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Mappers\bin\Release\net7.0\MappingObjects.Mappers.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Mappers\bin\Release\net7.0\MappingObjects.Mappers.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Mappers\bin\Release\net7.0\MappingObjects.Models.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Mappers\bin\Release\net7.0\MappingObjects.Models.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Mappers\obj\Release\net7.0\MappingObjects.Mappers.csproj.AssemblyReference.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Mappers\obj\Release\net7.0\MappingObjects.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Mappers\obj\Release\net7.0\MappingObjects.Mappers.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Mappers\obj\Release\net7.0\MappingObjects.Mappers.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Mappers\obj\Release\net7.0\MappingObjects.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Mappers\obj\Release\net7.0\MappingObjects.Mappers.csproj.CopyComplete
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Mappers\obj\Release\net7.0\MappingObjects.Mappers.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Mappers\obj\Release\net7.0\refint\MappingObjects.Mappers.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Mappers\obj\Release\net7.0\MappingObjects.Mappers.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\MappingObjects.Mappers\obj\Release\net7.0\ref\MappingObjects.Mappers.dll

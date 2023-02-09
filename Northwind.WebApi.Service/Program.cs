@@ -2,8 +2,15 @@ using Northwind.Shared;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.HttpLogging;
+using AspNetCoreRateLimit;
+using System.Threading.RateLimiting;
+using Microsoft.AspNetCore.RateLimiting;
 
 var builder = WebApplication.CreateBuilder(args);
+
+bool useMicrosoftRateLimiting = true;
+
+
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -11,13 +18,50 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddNorthwindContext();
 
+if (useMicrosoftRateLimiting)
+{
+    builder.Services.AddMemoryCache();
+    builder.Services.AddInMemoryRateLimiting();
+    builder.Services.Configure<ClientRateLimitOptions>(
+        builder.Configuration.GetSection("ClientRateLimiting"));
+    builder.Services.Configure<ClientRateLimitPolicies>(
+        builder.Configuration.GetSection("ClientRateLimitPolicies"));
+    builder.Services.AddSingleton<IRateLimitConfiguration, RateLimitConfiguration>();
+}
+
 builder.Services.AddHttpLogging(options =>
 {
     options.RequestHeaders.Add("Origin");
+    options.RequestHeaders.Add("X-Client-Id");
+    options.ResponseHeaders.Add("Retry-After");
     options.LoggingFields = HttpLoggingFields.All;
-})
+});
+
+string northwindMvc = "Northwind.Mvc.Policy";
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: northwindMvc,
+        policy =>
+        {
+            policy.WithOrigins("https://localhost:5092");
+        });
+});
 
 var app = builder.Build();
+
+if(useMicrosoftRateLimiting)
+{
+    RateLimiterOptions rateLimiterOptions = new();
+    rateLimiterOptions.AddFixedWindowLimiter(
+        policyName: "fixed5per10seconds", options =>
+        {
+            options.PermitLimit = 5;
+            options.QueueProcessingOrder = QueueProcessingOrder.OldestFirst;
+            options.QueueLimit = 2;
+            options.Window = TimeSpan.FromSeconds(10);
+        });
+    app.UseRateLimiter(rateLimiterOptions);
+}
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -28,6 +72,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseHttpLogging();
+//app.UseCors(policyName: northwindMvc);
+app.UseCors();
 
 app.MapGet("/", () => "Hello World!")
     .ExcludeFromDescription();
@@ -48,7 +94,8 @@ app.MapGet("api/products", (
       operation.Summary = "Get in-stock products that are not discontinued.";
       return operation;
   })
-  .Produces<Product[]>(StatusCodes.Status200OK);
+  .Produces<Product[]>(StatusCodes.Status200OK)
+  .RequireRateLimiting("fixed5per10seconds");
 
 app.MapGet("api/products/outofstock", ([FromServices] NorthwindContext db) =>
 db.Products.Where(product =>
@@ -65,13 +112,15 @@ app.MapGet("api/products/{id:int}",
     .WithName("GetProductById")
     .WithOpenApi()
     .Produces<Product>(StatusCodes.Status200OK)
-    .Produces(StatusCodes.Status404NotFound);
+    .Produces(StatusCodes.Status404NotFound)
+    .RequireCors(policyName:northwindMvc);
 
 app.MapGet("api/products/{name}", ([FromServices] NorthwindContext db, [FromRoute] string name)
     => db.Products.Where(p => p.ProductName.Contains(name)))
     .WithName("GetProductByName")
     .WithOpenApi()
-    .Produces<Product[]>(StatusCodes.Status200OK);
+    .Produces<Product[]>(StatusCodes.Status200OK)
+    .RequireCors(policyName: northwindMvc);
 
 app.MapPost("api/products", async ([FromBody] Product product, [FromServices] NorthwindContext db) =>
 {

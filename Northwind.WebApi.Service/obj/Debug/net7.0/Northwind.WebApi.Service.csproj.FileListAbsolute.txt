@@ -73,3 +73,5 @@ C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\obj\De
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\obj\Debug\net7.0\Northwind.WebApi.Service.pdb
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\obj\Debug\net7.0\Northwind.WebApi.Service.genruntimeconfig.cache
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\obj\Debug\net7.0\ref\Northwind.WebApi.Service.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\AspNetCoreRateLimit.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Newtonsoft.Json.dll

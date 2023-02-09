@@ -100,15 +100,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptographyLib", "Cryptogr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashingApp", "HashingApp\HashingApp.csproj", "{F9E70F72-6BA8-49DD-83DB-20242FBB12FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigningApp", "SigningApp\SigningApp.csproj", "{6AA4D160-696D-43EA-9793-1471F7321981}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SigningApp", "SigningApp\SigningApp.csproj", "{6AA4D160-696D-43EA-9793-1471F7321981}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomizingApp", "RandomizingApp\RandomizingApp.csproj", "{15C6CDE7-9811-4203-A475-83C3AC6BEBC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomizingApp", "RandomizingApp\RandomizingApp.csproj", "{15C6CDE7-9811-4203-A475-83C3AC6BEBC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureApp", "SecureApp\SecureApp.csproj", "{21AFA53D-9A98-4E6F-95EB-C1203759D4D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecureApp", "SecureApp\SecureApp.csproj", "{21AFA53D-9A98-4E6F-95EB-C1203759D4D6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MinimalAPI", "MinimalAPI", "{E38BE3A1-EF9F-49DD-A080-D98129BAA4A3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MinimalAPIDevelopment", "MinimalAPIDevelopment", "{E38BE3A1-EF9F-49DD-A080-D98129BAA4A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.WebApi.Service", "Northwind.WebApi.Service\Northwind.WebApi.Service.csproj", "{24204766-C67B-449D-B9A8-474877C6FD10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.WebApi.Service", "Northwind.WebApi.Service\Northwind.WebApi.Service.csproj", "{24204766-C67B-449D-B9A8-474877C6FD10}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.WebApi.Client.Mvc", "Northwind.WebApi.Client.Mvc\Northwind.WebApi.Client.Mvc.csproj", "{39F3676D-1EA3-4750-B192-BDBF71CBA5BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.WebApi.Client.Console", "Northwind.WebApi.Client.Console\Northwind.WebApi.Client.Console.csproj", "{1D553933-D1A5-4DAB-9E06-C04C6854BF5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -292,6 +296,14 @@ Global
 		{24204766-C67B-449D-B9A8-474877C6FD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24204766-C67B-449D-B9A8-474877C6FD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24204766-C67B-449D-B9A8-474877C6FD10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F3676D-1EA3-4750-B192-BDBF71CBA5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F3676D-1EA3-4750-B192-BDBF71CBA5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F3676D-1EA3-4750-B192-BDBF71CBA5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F3676D-1EA3-4750-B192-BDBF71CBA5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D553933-D1A5-4DAB-9E06-C04C6854BF5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D553933-D1A5-4DAB-9E06-C04C6854BF5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D553933-D1A5-4DAB-9E06-C04C6854BF5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D553933-D1A5-4DAB-9E06-C04C6854BF5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -341,6 +353,8 @@ Global
 		{15C6CDE7-9811-4203-A475-83C3AC6BEBC6} = {56BCB2FC-2E62-4F34-9CA6-733D30A61D59}
 		{21AFA53D-9A98-4E6F-95EB-C1203759D4D6} = {56BCB2FC-2E62-4F34-9CA6-733D30A61D59}
 		{24204766-C67B-449D-B9A8-474877C6FD10} = {E38BE3A1-EF9F-49DD-A080-D98129BAA4A3}
+		{39F3676D-1EA3-4750-B192-BDBF71CBA5BE} = {E38BE3A1-EF9F-49DD-A080-D98129BAA4A3}
+		{1D553933-D1A5-4DAB-9E06-C04C6854BF5E} = {E38BE3A1-EF9F-49DD-A080-D98129BAA4A3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7FFEF3F9-219C-466D-A3DE-893318461BDF}

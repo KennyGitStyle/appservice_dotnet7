@@ -1,0 +1,15 @@
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTimeZones\bin\Release\net7.0\WorkingWithTimeZones.exe
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTimeZones\bin\Release\net7.0\WorkingWithTimeZones.deps.json
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTimeZones\bin\Release\net7.0\WorkingWithTimeZones.runtimeconfig.json
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTimeZones\bin\Release\net7.0\WorkingWithTimeZones.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTimeZones\bin\Release\net7.0\WorkingWithTimeZones.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTimeZones\obj\Release\net7.0\WorkingWithTimeZones.csproj.AssemblyReference.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTimeZones\obj\Release\net7.0\WorkingWithTimeZones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTimeZones\obj\Release\net7.0\WorkingWithTimeZones.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTimeZones\obj\Release\net7.0\WorkingWithTimeZones.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTimeZones\obj\Release\net7.0\WorkingWithTimeZones.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTimeZones\obj\Release\net7.0\WorkingWithTimeZones.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTimeZones\obj\Release\net7.0\refint\WorkingWithTimeZones.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTimeZones\obj\Release\net7.0\WorkingWithTimeZones.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTimeZones\obj\Release\net7.0\WorkingWithTimeZones.genruntimeconfig.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithTimeZones\obj\Release\net7.0\ref\WorkingWithTimeZones.dll

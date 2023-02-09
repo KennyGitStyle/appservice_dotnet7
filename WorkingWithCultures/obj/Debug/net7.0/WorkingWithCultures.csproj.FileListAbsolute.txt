@@ -52,11 +52,17 @@ C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\n
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\net7.0\WorkingWithCultures.AssemblyInfoInputs.cache
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\net7.0\WorkingWithCultures.AssemblyInfo.cs
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\net7.0\WorkingWithCultures.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\net7.0\da\WorkingWithCultures.resources.cs
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\net7.0\da\WorkingWithCultures.resources.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\net7.0\fa-IR\WorkingWithCultures.resources.cs
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\net7.0\fa-IR\WorkingWithCultures.resources.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\net7.0\fr-CA\WorkingWithCultures.resources.cs
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\net7.0\fr-CA\WorkingWithCultures.resources.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\net7.0\fr\WorkingWithCultures.resources.cs
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\net7.0\fr\WorkingWithCultures.resources.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\net7.0\he-IL\WorkingWithCultures.resources.cs
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\net7.0\he-IL\WorkingWithCultures.resources.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\net7.0\pl-PL\WorkingWithCultures.resources.cs
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\net7.0\pl-PL\WorkingWithCultures.resources.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\net7.0\WorkingWithCultures.csproj.CopyComplete
 C:\Users\Kenneth\source\repos\apps-services-net7\WorkingWithCultures\obj\Debug\net7.0\WorkingWithCultures.dll

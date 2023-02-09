@@ -1,8 +1,3 @@
-C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\obj\Release\net7.0-windows\WpfResponsive.csproj.AssemblyReference.cache
-C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\obj\Release\net7.0-windows\MainWindow.g.cs
-C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\obj\Release\net7.0-windows\App.g.cs
-C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\obj\Release\net7.0-windows\WpfResponsive_MarkupCompile.cache
-C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\obj\Release\net7.0-windows\WpfResponsive_MarkupCompile.lref
 C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\bin\Release\net7.0-windows\WpfResponsive.exe
 C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\bin\Release\net7.0-windows\WpfResponsive.deps.json
 C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\bin\Release\net7.0-windows\WpfResponsive.runtimeconfig.json
@@ -31,6 +26,11 @@ C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\bin\Release\net7.
 C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\bin\Release\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\bin\Release\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\bin\Release\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\obj\Release\net7.0-windows\WpfResponsive.csproj.AssemblyReference.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\obj\Release\net7.0-windows\MainWindow.g.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\obj\Release\net7.0-windows\App.g.cs
+C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\obj\Release\net7.0-windows\WpfResponsive_MarkupCompile.cache
+C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\obj\Release\net7.0-windows\WpfResponsive_MarkupCompile.lref
 C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\obj\Release\net7.0-windows\MainWindow.baml
 C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\obj\Release\net7.0-windows\WpfResponsive.g.resources
 C:\Users\Kenneth\source\repos\apps-services-net7\WpfResponsive\obj\Release\net7.0-windows\WpfResponsive.GeneratedMSBuildEditorConfig.editorconfig
