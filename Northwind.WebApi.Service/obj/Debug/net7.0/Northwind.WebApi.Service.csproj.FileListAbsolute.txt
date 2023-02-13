@@ -5,8 +5,10 @@ C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\De
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Northwind.WebApi.Service.runtimeconfig.json
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Northwind.WebApi.Service.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Northwind.WebApi.Service.pdb
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\AspNetCoreRateLimit.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Azure.Core.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
@@ -25,6 +27,7 @@ C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\De
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Microsoft.OpenApi.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -73,5 +76,3 @@ C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\obj\De
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\obj\Debug\net7.0\Northwind.WebApi.Service.pdb
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\obj\Debug\net7.0\Northwind.WebApi.Service.genruntimeconfig.cache
 C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\obj\Debug\net7.0\ref\Northwind.WebApi.Service.dll
-C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\AspNetCoreRateLimit.dll
-C:\Users\Kenneth\source\repos\apps-services-net7\Northwind.WebApi.Service\bin\Debug\net7.0\Newtonsoft.Json.dll

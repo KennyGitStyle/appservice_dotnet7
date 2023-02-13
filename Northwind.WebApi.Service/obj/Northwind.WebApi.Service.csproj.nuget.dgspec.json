@@ -206,11 +206,11 @@
               "target": "Package",
               "version": "[5.0.0, )"
             },
-            "Microsoft.AspNetCore.OpenApi": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[7.0.2, )"
             },
-            "Microsoft.AspNetCore.RateLimiting": {
+            "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.2, )"
             },

@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fWbQkViGDWYxMrtzQUKbFHZQnrn+ekNofOrPPQkmy6iI1Cvj9OHD6u5d+kkuLrgj/jRpH5/NC5ndZZUloeQbbw==",
-  "success": false,
+  "dgSpecHash": "AkiehRV+OH3QuMHK04hPBecpECOBPnoxbgLLJozBZSLOCjO4PNwh4DVx9oO9pGTx1MSSjf7yBIOInQTQVbek3A==",
+  "success": true,
   "projectFilePath": "C:\\Users\\Kenneth\\source\\repos\\apps-services-net7\\Northwind.WebApi.Service\\Northwind.WebApi.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kenneth\\.nuget\\packages\\aspnetcoreratelimit\\5.0.0\\aspnetcoreratelimit.5.0.0.nupkg.sha512",
     "C:\\Users\\Kenneth\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Kenneth\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\Kenneth\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.2\\microsoft.aspnetcore.authentication.jwtbearer.7.0.2.nupkg.sha512",
     "C:\\Users\\Kenneth\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\Kenneth\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -75,15 +76,5 @@
     "C:\\Users\\Kenneth\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Kenneth\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1102",
-      "level": "Error",
-      "message": "Unable to find package Microsoft.AspNetCore.RateLimiting with version (>= 7.0.2)\r\n  - Found 6 version(s) in nuget.org [ Nearest version: 7.0.0-rc.2.22476.2 ]\r\n  - Found 0 version(s) in Microsoft Visual Studio Offline Packages\r\n  - Found 0 version(s) in C:\\Program Files\\dotnet\\library-packs",
-      "libraryId": "Microsoft.AspNetCore.RateLimiting",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }

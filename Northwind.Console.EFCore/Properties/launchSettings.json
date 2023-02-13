@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Northwind.Console.EFCore": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:51144;http://localhost:51165"
+    }
+  }
+}

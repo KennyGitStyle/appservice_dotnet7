@@ -3,39 +3,33 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.HttpLogging;
 using AspNetCoreRateLimit;
+using System.Security.Claims;
 using System.Threading.RateLimiting;
 using Microsoft.AspNetCore.RateLimiting;
-
-var builder = WebApplication.CreateBuilder(args);
+using Microsoft.OpenApi.Writers;
 
 bool useMicrosoftRateLimiting = true;
 
-
+var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-builder.Services.AddNorthwindContext();
+builder.Services.AddAuthorization();
+builder.Services.AddAuthentication(defaultScheme: "Bearer")
+    .AddJwtBearer();
 
-if (useMicrosoftRateLimiting)
+if (!useMicrosoftRateLimiting)
 {
     builder.Services.AddMemoryCache();
     builder.Services.AddInMemoryRateLimiting();
+
     builder.Services.Configure<ClientRateLimitOptions>(
         builder.Configuration.GetSection("ClientRateLimiting"));
     builder.Services.Configure<ClientRateLimitPolicies>(
         builder.Configuration.GetSection("ClientRateLimitPolicies"));
+
     builder.Services.AddSingleton<IRateLimitConfiguration, RateLimitConfiguration>();
 }
-
-builder.Services.AddHttpLogging(options =>
-{
-    options.RequestHeaders.Add("Origin");
-    options.RequestHeaders.Add("X-Client-Id");
-    options.ResponseHeaders.Add("Retry-After");
-    options.LoggingFields = HttpLoggingFields.All;
-});
 
 string northwindMvc = "Northwind.Mvc.Policy";
 builder.Services.AddCors(options =>
@@ -47,22 +41,32 @@ builder.Services.AddCors(options =>
         });
 });
 
-var app = builder.Build();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
-if(useMicrosoftRateLimiting)
+builder.Services.AddNorthwindContext();
+
+
+builder.Services.AddHttpLogging(options =>
 {
-    RateLimiterOptions rateLimiterOptions = new();
-    rateLimiterOptions.AddFixedWindowLimiter(
-        policyName: "fixed5per10seconds", options =>
-        {
-            options.PermitLimit = 5;
-            options.QueueProcessingOrder = QueueProcessingOrder.OldestFirst;
-            options.QueueLimit = 2;
-            options.Window = TimeSpan.FromSeconds(10);
-        });
-    app.UseRateLimiter(rateLimiterOptions);
-}
+    options.RequestHeaders.Add("Origin");
+    options.RequestHeaders.Add("X-Client-Id");
+    options.ResponseHeaders.Add("Retry-After");
+    options.LoggingFields = HttpLoggingFields.All;
+});
 
+var app = builder.Build();
+app.UseAuthorization();
+
+if(!useMicrosoftRateLimiting)
+{
+    using (IServiceScope scope = app.Services.CreateScope())
+    {
+        IClientPolicyStore clientPolicyStore = scope.ServiceProvider
+            .GetRequiredService<IClientPolicyStore>();
+        await clientPolicyStore.SeedAsync();
+    }
+}
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
@@ -72,11 +76,22 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseHttpLogging();
+
+if(!useMicrosoftRateLimiting)
+{
+    app.UseClientRateLimiting();
+}
+
 //app.UseCors(policyName: northwindMvc);
 app.UseCors();
 
 app.MapGet("/", () => "Hello World!")
     .ExcludeFromDescription();
+
+app.MapGet("/secret", (ClaimsPrincipal user) =>
+    $"Welcome, {user.Identity?.Name ?? "secure user"}. The secret ingredient is love.")
+    .RequireAuthorization();
+
 int pageSize = 10;
 
 app.MapGet("api/products", (
@@ -167,4 +182,19 @@ app.MapDelete("api/products/{id:int}", async (
 }).WithOpenApi()
   .Produces(StatusCodes.Status404NotFound)
   .Produces(StatusCodes.Status204NoContent);
+
+if (useMicrosoftRateLimiting)
+{
+    RateLimiterOptions rateLimiterOptions = new();
+    rateLimiterOptions.AddFixedWindowLimiter(
+        policyName: "fixed5per10seconds", options =>
+        {
+            options.PermitLimit = 5;
+            options.QueueProcessingOrder = QueueProcessingOrder.OldestFirst;
+            options.QueueLimit = 2;
+            options.Window = TimeSpan.FromSeconds(10);
+        });
+    app.UseRateLimiter(rateLimiterOptions);
+}
+
 app.Run();

@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Northwind.WebApi.Client.Mvc.props" />
-</Project>
